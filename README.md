@@ -41,7 +41,10 @@
 1. 登录淘商机官网后提取csrf和cookie值
 2. 打开config.json 将******内容替换为对应的csrf和cookie值即可
 3. 运行 spider_taoshangji.py
-4. 输入关键词等待数据载入保存即可。
+4. 输入关键词等待数据载入保存即可。、
+
+# 示例图片
+![Image text](https://github.com/tuot1/taoshangji/blob/main/%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA_%E5%A9%9A%E7%A4%BC%E8%A1%A3%E6%9E%B6.png)
 
 
 #### 请勿商用，请勿商用，请勿商用，
